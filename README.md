@@ -15,11 +15,11 @@ A simple React app that allows users to view, add, and delete items from **Books
 
 ## Screenshots
 
-![image](https://github.com/WGinKajiado/react_list/blob/main/src/assets/screenshot.jpg?raw=true)# index.html
+![image](https://github.com/WGinKajiado/react_media_list/blob/main/src/assets/screenshot.jpg?raw=true)# index.html
 
 ---
 
 ### By Kariuki W
 
 ### Live Release
-Live  : <a href="https://wginkajiado.github.io/react_list/">View Here</a>
+Live  : <a href="https://wginkajiado.github.io/react_media_list/">View Here</a>
