@@ -22,4 +22,4 @@ A simple React app that allows users to view, add, and delete items from **Books
 ### By Kariuki W
 
 ### Live Release
-Live  : <a href="https://wginkajiado.github.io/react_media_list/">View Here</a>
+Live  : <a href="https://react-media-list.vercel.app/">View Here</a>
